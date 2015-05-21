@@ -1,2 +1,2 @@
 # TPL
-Project L
+[The Odin Project](http://www.theodinproject.com)
